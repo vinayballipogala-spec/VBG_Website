@@ -1,6 +1,4 @@
-import React, { useState } from 'react';
 import Header from './components/Header';
-import Navigation from './components/Navigation';
 import About from './components/About';
 import WhoServe from './components/WhoServe';
 import Nexus from './components/Nexus';
