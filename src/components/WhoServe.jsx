@@ -15,7 +15,7 @@ const sectors = [
   'Population and Public Health Technology',
 ];
 
-export default function Whoserve({ id }) {
+export default function WhoServe({ id }) {
   return (
     <section id={id} style={{ marginTop: 60, backgroundColor: '#e6faf8', padding: '2rem', borderRadius: '12px' }}>
       <h2>Who We Serve</h2>
